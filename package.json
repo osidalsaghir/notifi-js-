@@ -1,0 +1,20 @@
+{
+  "name": "masroufna",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fcm-node": "^1.6.1",
+    "firebase": "^8.6.7",
+    "firebase-admin": "^9.9.0",
+    "tedious": "^11.0.9"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.2"
+  }
+}
