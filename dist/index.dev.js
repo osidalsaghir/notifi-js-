@@ -24,7 +24,7 @@ setInterval(function () {
             body: "A deposit to your savings account has just cleared."
           }
         }).then(function () {
-          console.log("done" + Element.val()["noty"].toString());
+          console.log("done " + Element.val()["noty"].toString());
         })["catch"](function () {
           console.log("Error Occured");
         });
